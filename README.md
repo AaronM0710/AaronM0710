@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AaronM0710
 - 👀 I’m interested in Science!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: mccullougha00@yahoo.com
 
 <!---
