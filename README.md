@@ -4,7 +4,7 @@ I'm a science enthusiast passionate about applying tech to real-world problems, 
 
 ## 🌱 What I'm Up To
 - Currently learning Java for building robust applications.
-- Building budgetboom dot io
+- Building budgetboom.io
 - Exploring Python for scientific computing.
 
 ## 💞️ Collaboration
