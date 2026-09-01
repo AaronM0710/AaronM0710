@@ -1,25 +1,32 @@
-# 👋 Hi, I'm @AaronM0710!
+# Aaron J. McCullough
 
-I'm a science enthusiast passionate about applying tech to real-world problems, like data analysis in biology or environmental modeling.
+Software engineer building healthcare applications. I work on medical billing
+SaaS for ambulatory surgery centers at ZYSC LLC, where I sit with the billing
+staff using the product, figure out why claims are failing, and build the fix.
 
-## 🌱 What I'm Up To
-- Currently learning Java for building robust applications.
-- Building budgetboom.io
-- Exploring Python for scientific computing.
+## What I'm working on
 
-## 💞️ Collaboration
-I'm looking to collaborate on open-source projects in science, education, or beginner-friendly apps. Check out my pinned repos below!
+- **[BudgetBoom](https://budgetboom.io)** — AI-powered budgeting app I designed,
+  built, and deployed solo. React/TypeScript, Node.js, PostgreSQL, Plaid for
+  account data, LLM-generated insights with a validation layer that rejects
+  unreliable model output.
+- Production healthcare billing systems at ZYSC — claims, payer data
+  normalization, PostgreSQL schema design under HIPAA constraints.
 
-## 🛠️ Skills
-- Programming Languages: JavaScript, TypeScript, Java, Python, SQL, R, HTML5, CSS3
-- Frontend Technologies: React, React Router, Redux, Vite, Tailwind CSS, Bootstrap, Responsive Web Design
-- Backend & APIs: REST APIs, API Integration, Node.js, JSON, Axios, Database Concepts (SQL)
-- Tools & Methods: Git, GitHub, VS Code, Agile, Scrum, Code Review, Technical Documentation, Statistics
-- Interests: Data Science, Machine Learning, Open Source, Physics, Calculus
+## Stack
 
-## 📫 Reach Me
-- Email: [mccullougha00@yahoo.com](mailto:mccullougha00@yahoo.com)
-- Work GitHub: [@aaronzysc](https://github.com/aaronzysc) for professional projects
-- LinkedIn: [Aaron McCullough](https://www.linkedin.com/in/aaronjmccullough/)
+**Languages** — TypeScript, JavaScript, Python, SQL, Java, R
+**Frontend** — React, Redux, React Router, Vite, Tailwind CSS
+**Backend & Data** — Node.js, Express, REST APIs, PostgreSQL, Supabase
+**AI** — Anthropic Claude API, OpenAI API, prompt engineering, structured outputs
+**Tools** — Git, VS Code, Vercel, Agile, code review
 
-Feel free to star my repos or drop a message—let's build something cool! 🚀
+## Interested in
+
+Forward deployed and solutions engineering, healthcare data, and anything where
+the job is talking to the person with the problem before writing the code.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/aaronjmccullough/)
+- mccullougha00@yahoo.com
